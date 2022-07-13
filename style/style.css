@@ -140,9 +140,6 @@ main a:hover{
     text-decoration: underline;
     color: var(--cor4);
 }
-ul img{
-    width: 10%;
-}
 nav{
     background-color: var(--cor4);
     padding: 10px;
