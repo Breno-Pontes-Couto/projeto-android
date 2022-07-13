@@ -53,13 +53,7 @@ footer:hover{
 }
 footer a:hover{
     text-decoration: underline;
-}
-abbr{
-    color: red;
-}
-abbr:hover{
-    color: blue;
-}
+}   
 body{
     background-color: var(--cor1);
     font-family: var(--fonte-padrão);
