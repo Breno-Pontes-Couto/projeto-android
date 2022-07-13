@@ -93,7 +93,6 @@ header > p{
     text-shadow:-2px -2px 3px rgb(0 0 0 / 44%);
 }
 *{
-    transition: 1s;
     padding: 2px;
     margin: 2px;
 }
