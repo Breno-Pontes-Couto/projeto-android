@@ -158,6 +158,7 @@ div.video > iframe{
     height: 90%;
 }
 nav > a{
+    text-align: center;
     transition-duration: 1s;
     padding: 8px;
     color: var(--cor6);
