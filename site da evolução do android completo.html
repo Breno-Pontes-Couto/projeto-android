@@ -6,16 +6,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Evolução completa</title>
     <style>
+        :root{
+            --cor1: #3ddc84;
+            --cor2: #063d1e;
+        }
         body{
-            background-color: #3ddc84;
+            background-color: var(--cor1);
             font-family: Arial, Helvetica, sans-serif;
         }
         div.video{
-        background-color:var(--cor6);
-        margin: 0px -5px 3px;
-        padding: 20px;
-        padding-bottom: 38%;
-        position:relative;
+            background-color:var(--cor2);
+            margin: 0px -5px 3px;
+            padding: 20px;
+            padding-bottom: 38%;
+            position:relative;
         }
         div.video > iframe{
             position:absolute;
@@ -23,6 +27,11 @@
             left: 5%;
             width: 90%;
             height: 90%;
+        }
+        h1{
+            padding-top: 30px;
+            padding-left: 20px;
+            padding-right: 20px;
         }
     </style>
 </head>
